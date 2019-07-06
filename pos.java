@@ -1,5 +1,5 @@
 import java.util.*;
-class pos
+public class pos
 {
 public static void mian(String args[])
 {
